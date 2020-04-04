@@ -1,2 +1,2 @@
 # k nearest neighbor
-Building a knn algorithm from scratch
+Built a knn algorithm from scratch
